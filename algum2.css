@@ -1,0 +1,201 @@
+﻿*{
+	margin: 0px auto 0px auto;
+	
+
+}
+#container{
+	background-color: #F8ECE0;
+	height: 1370px;
+	width: 1400px;
+	background-color:#424242;
+	background-image: url("fotos/Planos de fundo LOL/vs1.jpg");
+	background-attachment:fixed;
+	background-size:100%;
+
+}
+header{
+	background-color: #aabbaa;
+	height: 50px;	
+	padding: 0px 0px 0px 20px;	
+}
+
+#primeiro{
+	width: 600px;
+	height:260px;
+	margin-right:780px;
+	margin-bottom:90px;
+	
+}
+#funciona{
+	margin-top:0px;
+}
+#video1{
+	float:left;
+	margin-left:700px;
+	margin-top:-390px;
+}
+section{
+	height: auto;
+
+}
+figcaption{
+	color: #F8ECE0;
+}
+#figatrox{
+	margin-left: 35px;
+	text-shadow: 1px 1px 5px red;
+	
+}
+#figatrox1{
+	margin-left: 15px;
+	text-shadow: 1px 2px 5px red;
+}
+/*section p{
+	background: #6E6E6E;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	color: white;
+	height: auto;
+	text-indent: 0;
+	border: thin silver solid;
+	margin: 0.5em;
+  	padding: 0.5em;
+	box-shadow: 1px 1px 5px 5px white;
+	text-align: justify;
+}*/
+section p{
+	color: black;
+	margin-bottom: 27px;
+	text-align: justify;
+	font-family: 'Arial Black';
+	font-size:14px;
+
+}
+section h1{
+	color: #F8ECE0;
+	font-family: 'Arial';
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+
+	
+	
+}
+#primeiroh1{
+	width:110px;
+	margin-top:10px;
+	margin-left:10px;
+	
+}
+footer{
+	background-color: red;
+	height: auto;
+	color: black;
+	margin-top: 50px;
+	text-align: center;
+}
+.menu{ 
+	width:1380px;  
+	height:50px; 
+	background-color: black; 
+	font-family:'Arial'; 
+	margin-bottom:20px;
+}
+.menu ul{
+	list-style:none; 
+	position:relative;
+}
+.menu ul li{
+	width:150px;
+	float:left; 
+}
+.menu a{ 
+	padding:15px;
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	background-color:black;
+	color:#fff;
+}
+.menu ul ul{ 
+	position: absolute; 
+	visibility: hidden; 
+}
+.menu ul li:hover ul{
+	visibility:visible; 
+}
+
+.menu a:hover{ 
+	background-color:#f4f4f4;
+	color:#555;
+}
+.menu ul ul li{
+	float:none;
+	border-bottom:solid 1px #ccc;
+}
+.menu ul ul li a{ 
+	background-color:#585858;
+}
+
+label[for ="bt_menu"]{ 
+	padding:5px;
+	background-color: #222;
+	color:#fff;
+	font-family: "Arial";
+	text-align:center;
+	font-size:30px;
+	cursor:pointer;
+	width:50px;
+	height:50px;
+}
+label[for="bt_menu"]{
+	display:none;
+}
+#bt_menu{
+		display:none;
+	}
+
+@media(max-width : 800px){ 
+	label[for="bt_menu"]{
+		display:block;
+	}
+	.menu ul li{
+		width:100%;
+		float:none;
+	}
+	.menu ul ul{
+		position:static;
+		overflow:hidden;
+		max-height:0;
+		transition:all .4s;
+	}
+	.menu{
+		margin-top:5px;
+		margin-left:-100%;
+		transition: all .4s;
+	}
+	.menu ul li:hover ul{
+		height: auto;
+		max-height:200px;
+	}
+	
+	
+	#bt_menu:checked ~ .menu{
+		margin-left:0;
+	}
+}
+section img{
+	width: 80px;
+	height: 80px;
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+header img{
+	float:left;
+	width: 88px;
+	margin-left: 400px;
+
+}

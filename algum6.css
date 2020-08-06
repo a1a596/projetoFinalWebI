@@ -1,0 +1,376 @@
+﻿*{
+	margin: 0px auto 0px auto;
+	
+
+}
+#container{
+	background-color: #F8ECE0;
+	height: 4100px;
+	width: 1400px;
+	background-color:#424242;
+	background-image: url("fotos/Planos de fundo LOL/project.jpg");
+	background-attachment:fixed;
+	background-size:100%;
+}
+header{
+	background-color: #aabbaa;
+	height: 50px;	
+	padding: 0px 0px 0px 20px;	
+}
+#primeiroh1{
+	width:110px;
+	margin-top:10px;
+	margin-left:10px;
+	
+}
+#h1mapas{
+	text-align:center;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#sr1{
+	width: 300px;
+	height: 300px;
+	margin-top: -300px;
+	float:right;
+	margin-right:800px;
+	box-shadow: 1px 1px 5px 5px white;	
+}
+#sr2{
+	width: 300px;
+	height: 300px;
+	float:left;
+	margin-left:800px;
+	box-shadow: 1px 1px 5px 5px white;	
+}
+#primeiro{
+	width:1300px;
+	margin-right:80px;
+	margin-bottom:20px;
+	margin-top:50px;
+	font-family:'Arial Black';
+	text-align:justify;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+}
+#segundo{
+	width:1300px;
+	margin-right:80px;
+	margin-bottom:20px;
+	margin-top:400px;
+	font-family:'Arial Black';
+	text-align:justify;
+	color: white;
+	text-shadow: 1px 1px 5px black;
+}
+#funciona{
+	margin-top:0px;
+}
+#video1{
+	float:left;
+	margin-left:700px;
+	margin-top:-390px;
+}
+section h2{
+	color: white;
+	text-shadow: 1px 2px 5px black;
+	font-family: 'Arial';
+	padding:20px;
+	margin-left: 30px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+#awaken{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+
+}
+#awaken1{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics{
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#h1cinematics1{
+	float:left;
+	margin-left:640px;
+	margin-top:-400px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken2{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics2{
+	margin-top:100px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken3{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics3{
+	float:left;
+	margin-left:640px;
+	margin-top:-400px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken4{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics4{
+	margin-top:100px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken5{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics5{
+	float:left;
+	margin-left:640px;
+	margin-top:-400px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken6{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics6{
+	margin-top:100px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken7{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics7{
+	float:left;
+	margin-left:640px;
+	margin-top:-400px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken8{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics8{
+	margin-top:100px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken9{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics9{
+	float:left;
+	margin-left:640px;
+	margin-top:-400px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken10{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics10{
+	margin-top:100px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken11{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics11{
+	float:left;
+	margin-left:640px;
+	margin-top:-400px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken12{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics12{
+	margin-top:100px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken13{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics13{
+	float:left;
+	margin-left:640px;
+	margin-top:-400px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+#awaken14{
+	margin-left:50px;
+	box-shadow: 1px 1px 5px 5px #610B5E;
+}
+#h1cinematics14{
+	margin-top:100px;
+	text-shadow: 1px 2px 5px #610B5E;
+}
+section{
+	height: auto;
+
+}
+figcaption{
+	color: #F8ECE0;
+}
+#figatrox{
+	margin-left: 35px;
+	text-shadow: 1px 1px 5px red;
+	
+}
+#figatrox1{
+	margin-left: 15px;
+	text-shadow: 1px 2px 5px red;
+}
+/*section p{
+	background: #6E6E6E;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	color: white;
+	height: auto;
+	text-indent: 0;
+	border: thin silver solid;
+	margin: 0.5em;
+  	padding: 0.5em;
+	box-shadow: 1px 1px 5px 5px white;
+	text-align: justify;
+}*/
+section p{
+	color: black;
+	margin-bottom: 27px;
+	text-align: justify;
+	font-family: 'Arial Black';
+	font-size:14px;
+
+}
+section h1{
+	color: white;
+	text-shadow: 1px 2px 5px black;
+	font-family: 'Arial';
+	padding:20px;
+	text-align:center;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+		
+}
+
+footer{
+	background-color: #000;
+	height: auto;
+	color: white;
+	margin-top:90px;
+	text-align: center;
+}
+.menu{ 
+	width:1380px;  
+	height:50px; 
+	background-color: black; 
+	font-family:'Arial'; 
+}
+.menu ul{
+	list-style:none; 
+	position:relative;
+}
+.menu ul li{
+	width:150px;
+	float:left; 
+}
+.menu a{ 
+	padding:15px;
+	display:block;
+	text-decoration:none;
+	text-align:center;
+	background-color:black;
+	color:#fff;
+}
+.menu ul ul{ 
+	position: absolute; 
+	visibility: hidden; 
+}
+.menu ul li:hover ul{
+	visibility:visible; 
+}
+
+.menu a:hover{ 
+	background-color:#f4f4f4;
+	color:#555;
+}
+.menu ul ul li{
+	float:none;
+	border-bottom:solid 1px #ccc;
+}
+.menu ul ul li a{ 
+	background-color:#585858;
+}
+
+label[for ="bt_menu"]{ 
+	padding:5px;
+	background-color: #222;
+	color:#fff;
+	font-family: "Arial";
+	text-align:center;
+	font-size:30px;
+	cursor:pointer;
+	width:50px;
+	height:50px;
+}
+label[for="bt_menu"]{
+	display:none;
+}
+#bt_menu{
+		display:none;
+	}
+
+@media(max-width : 800px){ 
+	label[for="bt_menu"]{
+		display:block;
+	}
+	.menu ul li{
+		width:100%;
+		float:none;
+	}
+	.menu ul ul{
+		position:static;
+		overflow:hidden;
+		max-height:0;
+		transition:all .4s;
+	}
+	.menu{
+		margin-top:5px;
+		margin-left:-100%;
+		transition: all .4s;
+	}
+	.menu ul li:hover ul{
+		height: auto;
+		max-height:200px;
+	}
+	
+	
+	#bt_menu:checked ~ .menu{
+		margin-left:0;
+	}
+}
+section img{
+	width: 500px;
+	height: 300px;
+	margin-left:450px;
+	margin-top: 10px;
+	box-shadow: 1px 1px 5px 5px white;
+
+}
+header img{
+	float:left;
+	width: 88px;
+	margin-left: 450px;
+
+}
